@@ -1,5 +1,5 @@
 // ── Bump this version string every time you deploy a new index.html ──────────
-const CACHE = 'russki-v3';
+const CACHE = 'russki-v4';
 const ASSETS = ['./', './index.html', './manifest.json'];
 
 self.addEventListener('install', e => {
